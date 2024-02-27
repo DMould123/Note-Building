@@ -16,11 +16,11 @@ An HTML document is structured using elements, which are enclosed within tags. T
 </html>
 ```
 
-<!DOCTYPE html>: Declares the document type and version of HTML being used (HTML5 in this case).
-<html>: The root element that wraps all content on the web page.
-<head>: Contains meta-information about the document such as title, styles, scripts, etc.
-<title>: Sets the title of the document which appears in the browser's title bar.
-<body>: Contains the visible content of the document.
+    <!DOCTYPE html>: Declares the document type and version of HTML being used (HTML5 in this case).
+    <html>: The root element that wraps all content on the web page.
+    <head>: Contains meta-information about the document such as title, styles, scripts, etc.
+    <title>: Sets the title of the document which appears in the browser's title bar.
+    <body>: Contains the visible content of the document.
 
 ## HTML Elements 🧱
 
