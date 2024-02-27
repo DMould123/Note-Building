@@ -16,7 +16,7 @@ An HTML document is structured using elements, which are enclosed within tags. T
 </html>
 ```
 
-    <!DOCTYPE html>: Declares the document type and version of HTML being used (HTML5 in this case).
+    `<!DOCTYPE html>`: Declares the document type and version of HTML being used (HTML5 in this case).
     <html>: The root element that wraps all content on the web page.
     <head>: Contains meta-information about the document such as title, styles, scripts, etc.
     <title>: Sets the title of the document which appears in the browser's title bar.
@@ -66,6 +66,4 @@ Example:
 
 ## HTML5 Semantic Elements 🚀
 
-HTML5 introduced semantic elements which give meaning to the content, making it more understandable for both browsers and developers. Some of these elements include <header>, <footer>, <nav>, <section>, <article>, <aside>.
-
-These are some basic concepts to get started with HTML
+HTML5 introduced semantic elements which give meaning to the content, making it more understandable for both browsers and developers. Some of these elements include `<header>`, `<footer>`, `<nav>`, `<section>`, `<article>`, `<aside>`.
