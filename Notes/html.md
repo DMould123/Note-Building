@@ -30,9 +30,6 @@ HTML elements are the building blocks of a webpage. They consist of an opening t
 <p>This is a paragraph.</p>
 ```
 
-    <p>: Opening tag for a paragraph element.
-    </p>: Closing tag for a paragraph element.
-
 ### Commonly Used HTML Elements 📝
 
     <h1> to <h6>: Headings of different levels.
@@ -69,7 +66,6 @@ Example:
 
 ## HTML5 Semantic Elements 🚀
 
-TML5 introduced semantic elements which give meaning to the content, making it more understandable for both browsers and developers.
-Some of these elements include <header>, <footer>, <nav>, <section>, <article>, <aside>
+HTML5 introduced semantic elements which give meaning to the content, making it more understandable for both browsers and developers. Some of these elements include <header>, <footer>, <nav>, <section>, <article>, <aside>.
 
 These are some basic concepts to get started with HTML
