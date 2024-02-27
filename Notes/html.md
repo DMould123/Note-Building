@@ -30,21 +30,22 @@ HTML elements are the building blocks of a webpage. They consist of an opening t
 <p>This is a paragraph.</p>
 ```
 
-<p>: Opening tag for a paragraph element </p>: Closing tag for a paragraph element.
+    <p>: Opening tag for a paragraph element.
+    </p>: Closing tag for a paragraph element.
 
 ### Commonly Used HTML Elements 📝
 
-<h1> to <h6>: Headings of different levels.
-<p>: Paragraph.
-<a>: Anchor (for creating hyperlinks).
-<img>: Image.
-<ul>: Unordered list.
-<ol>: Ordered list.
-<li>: List item.
-<div>: Division or section.
-<span>: Inline container.
-<input>: Input field.
-<form>: Form container.
+    <h1> to <h6>: Headings of different levels.
+    <p>: Paragraph.
+    <a>: Anchor (for creating hyperlinks).
+    <img>: Image.
+    <ul>: Unordered list.
+    <ol>: Ordered list.
+    <li>: List item.
+    <div>: Division or section.
+    <span>: Inline container.
+    <input>: Input field.
+    <form>: Form container.
 
 ### Attributes 🎨
 
