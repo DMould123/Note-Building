@@ -17,10 +17,10 @@ An HTML document is structured using elements, which are enclosed within tags. T
 ```
 
 - `<!DOCTYPE html>`: Declares the document type and version of HTML being used (HTML5 in this case).
-- <html>: The root element that wraps all content on the web page.
-  <head>: Contains meta-information about the document such as title, styles, scripts, etc.
-  <title>: Sets the title of the document which appears in the browser's title bar.
-  <body>: Contains the visible content of the document.*
+- `<html>`: The root element that wraps all content on the web page.
+- `<head>`: Contains meta-information about the document such as title, styles, scripts, etc.
+- `<title>`: Sets the title of the document which appears in the browser's title bar.
+- `<body>`: Contains the visible content of the document.\*
 
 ## HTML Elements 🧱
 
@@ -32,17 +32,17 @@ HTML elements are the building blocks of a webpage. They consist of an opening t
 
 ### Commonly Used HTML Elements 📝
 
-    <h1> to <h6>: Headings of different levels.
-    <p>: Paragraph.
-    <a>: Anchor (for creating hyperlinks).
-    <img>: Image.
-    <ul>: Unordered list.
-    <ol>: Ordered list.
-    <li>: List item.
-    <div>: Division or section.
-    <span>: Inline container.
-    <input>: Input field.
-    <form>: Form container.
+- `<h1>` to `<h6>`: Headings of different levels.
+- `<p>`: Paragraph.
+- `<a>`: Anchor (for creating hyperlinks).
+- `<img>`: Image.
+- `<ul>`: Unordered list.
+- `<ol>`: Ordered list.
+- `<li>`: List item.
+- `<div>`: Division or section.
+- `<span>`: Inline container.
+- `<input>`: Input field.
+- `<form>`: Form container.
 
 ### Attributes 🎨
 
