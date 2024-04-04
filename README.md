@@ -12,3 +12,8 @@
 - Decided to make try and work with Tailwind CSS to try and learn more of this. Not very familiar with it.
 - Use this as my reference point https://tailwindcss.com/docs/guides/vite
 
+  ### 2024-03-21
+
+  - Built a simple Vue-to-list to refresh Vue knowledge. Created a file to go back and practice with this
+  
+
