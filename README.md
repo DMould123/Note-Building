@@ -19,5 +19,9 @@
 ### 2024-04-06
 
 - React Native refresher. Attempt to build a simple Quiz app.
+
+- ### 2024-04-11
+
+- Running into issues with the navigation across React Native screens using Stack and passing params
   
 
