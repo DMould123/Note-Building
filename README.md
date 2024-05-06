@@ -23,5 +23,13 @@
 - ### 2024-04-11
 
 - Running into issues with the navigation across React Native screens using Stack and passing params
+
+- ### 2024-04-29
+
+- Built a wedding countdown page with HTML, CSS & JS
   
 
+- ### 2024-05-06
+
+- Still working on the Quiz App styling and some params.
+- Created a reusable Navbar component with HTML & CSS
