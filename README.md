@@ -33,3 +33,8 @@
 
 - Still working on the Quiz App styling and some params.
 - Created a reusable Navbar component with HTML & CSS
+
+- ### 2024-05-08
+- Working with a MERN app, having issues with the token
+ 
+  
