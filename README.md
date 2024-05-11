@@ -36,5 +36,8 @@
 
 - ### 2024-05-08
 - Working with a MERN app, having issues with the token
+
+- ### 2024-05-11
+- Enjoying updating the styling on the Quiz App.
  
   
