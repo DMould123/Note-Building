@@ -39,5 +39,8 @@
 
 - ### 2024-05-11
 - Enjoying updating the styling on the Quiz App.
+
+- ### 2024-05-28
+- I have updated the E-commerce store with NextJS to solve items being handed to the cart. Previously the same item was showing as multiple items in the cart, now it shows as one item and mutliples of this.
  
   
