@@ -28,7 +28,6 @@
 
 - Built a wedding countdown page with HTML, CSS & JS
   
-
 - ### 2024-05-06
 
 - Still working on the Quiz App styling and some params.
@@ -42,5 +41,8 @@
 
 - ### 2024-05-28
 - I have updated the E-commerce store with NextJS to solve items being handed to the cart. Previously the same item was showing as multiple items in the cart, now it shows as one item and mutliples of this.
+
+- ### 2024-05-30
+- For the past week I have been working on a wedding budget planning app using ClerK. Clerk has been very to implement and use for the first time.
  
   
