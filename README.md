@@ -44,5 +44,7 @@
 
 - ### 2024-05-30
 - For the past week I have been working on a wedding budget planning app using ClerK. Clerk has been very to implement and use for the first time.
- 
+
+- ### 2024-06-07
+-Trying to figure out a carousel to be added - having difficult with the responsiveness on small screens for my wedding countdown
   
