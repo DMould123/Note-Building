@@ -40,7 +40,7 @@ cd client
 
 
 ```
-npx create-vite@latest client
+npm install
 ```
 
 #### Server Setup
