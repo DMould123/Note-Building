@@ -4,6 +4,9 @@
 
 This guide will walk you through setting up and using an API server using Express.js with TypeScript and MongoDB using Mongoose.
 
+## Objectives 🎯
+When a user fills out the form and submits it, the frontend sends a POST request to the backend API (/api/users), which then creates a new user document in MongoDB. If successful, the backend responds with the created user object, which is then displayed as a success message on the frontend. If there's an error during user creation, an appropriate error message is shown.
+
 ## Getting Started - Backend Setup 🛠️
 
 ### Step 1 - Project Setup
