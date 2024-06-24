@@ -22,10 +22,10 @@ npm install --save-dev typescript ts-node @types/node @types/express @types/mong
 ### Step 2 - Project Structure
 Ensure your project directory is structured as follows:
 
-Create a new directory for your project and set it up by running these commands in your terminal:
+mkdir -p src/{controllers,models,routes} will create. folder for the basic sctructure needed below
 
 ```
-my-express-api/
+server/
 ├── src/
 │   ├── controllers/
 │   │   └── userController.ts
