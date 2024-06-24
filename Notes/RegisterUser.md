@@ -51,37 +51,41 @@ PORT=5005
 Create a server.ts file and set up your Express.js server with Mongoose:
 
 ```
-import express, { Express } from 'express';
-import mongoose from 'mongoose';
-import cors from 'cors';
-import dotenv from 'dotenv';
-import userRoutes from './routes/userRoutes';
+import express, { Express } from 'express'
+import mongoose from 'mongoose'
+import cors from 'cors'
+import dotenv from 'dotenv'
+import userRoutes from './routes/userRoutes'
 
-dotenv.config();
+// Load environment variables
+dotenv.config()
 
-const app: Express = express();
-const port = process.env.PORT || 5005;
+const app: Express = express()
+const port = process.env.PORT || 5005
 
-app.use(express.json());
-app.use(cors());
+app.use(express.json())
+app.use(cors())
 
-const mongoURI: string = process.env.MONGODB_URL || '';
+const mongoURI: string = process.env.MONGODB_URL || ''
 
+// Check if MongoDB URL is defined
 if (!mongoURI) {
-  throw new Error('MONGODB_URL is not defined in .env file');
+  throw new Error('MONGODB_URL is not defined in .env file')
 }
 
+// Connect to MongoDB
 mongoose
   .connect(mongoURI)
   .then(() => console.log('Connected to MongoDB 🌍'))
-  .catch((err) => console.error('Failed to connect to MongoDB:', err));
+  .catch((err) => console.error('Failed to connect to MongoDB:', err))
 
-app.use('/api/users', userRoutes);
+// Setup routes
+app.use('/api/users', userRoutes)
 
+// Start the server
 app.listen(port, () => {
-  console.log(`Server Running on Port ${port} 🚀`);
-});
-
+  console.log(`Server Running on Port ${port} 🚀`)
+})
 ```
 
 ### Step 5 - User Routes and Controllers
