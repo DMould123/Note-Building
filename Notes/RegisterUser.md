@@ -108,53 +108,63 @@ export default router;
 userController.ts
 
 ```
-import { Request, Response } from 'express';
-import User from '../models/User';
+import { Request, Response } from 'express'
+import User from '../models/User'
 
+// Function to create a new user
 export const createUser = async (req: Request, res: Response) => {
-  const { username, email, password } = req.body;
+  const { username, email, password } = req.body
 
   try {
-    const newUser = new User({ username, email, password });
-    await newUser.save();
-    res.status(201).json(newUser);
+       // Create a new user instance
+    const newUser = new User({ username, email, password })
+        // Save the user to MongoDB
+    await newUser.save()
+     // Respond with the created user object
+    res.status(201).json(newUser)
+    // Handle errors
   } catch (error) {
-    const errorMessage = (error as Error).message;
-    res.status(400).json({ message: errorMessage });
+    const errorMessage = (error as Error).message
+    res.status(400).json({ message: errorMessage })
   }
-};
+}
 
+// Function to retrieve all users
 export const getUsers = async (req: Request, res: Response) => {
   try {
-    const users = await User.find();
-    res.status(200).json(users);
+     // Fetch all users from MongoDB
+    const users = await User.find()
+    // Respond with the array of users
+    res.status(200).json(users)
   } catch (error) {
-    const errorMessage = (error as Error).message;
-    res.status(500).json({ message: errorMessage });
+    const errorMessage = (error as Error).message
+    res.status(500).json({ message: errorMessage })
   }
-};
+}
 ```
 
 User.ts
-
 ```
-import { Schema, model, Document } from 'mongoose';
+import { Schema, model } from 'mongoose'
 
-interface IUser extends Document {
-  username: string;
-  email: string;
-  password: string;
+// Interface for User document
+interface IUser {
+  username: string
+  email: string
+  password: string
 }
 
+// Define User schema
 const userSchema = new Schema<IUser>({
   username: { type: String, required: true },
   email: { type: String, required: true, unique: true },
-  password: { type: String, required: true },
-});
+  password: { type: String, required: true }
+})
 
-const User = model<IUser>('User', userSchema);
+// Create User model
+const User = model<IUser>('User', userSchema)
 
-export default User;
+export default User
 ```
 
 ### Step 6 - Running the Server
