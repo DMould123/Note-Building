@@ -46,5 +46,8 @@
 - For the past week I have been working on a wedding budget planning app using ClerK. Clerk has been very to implement and use for the first time.
 
 - ### 2024-06-07
--Trying to figure out a carousel to be added - having difficult with the responsiveness on small screens for my wedding countdown
+- Trying to figure out a carousel to be added - having difficult with the responsiveness on small screens for my wedding countdown
+
+-  ### 2024-06-30
+-  I was workigon some components that I can use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
   
