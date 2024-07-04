@@ -49,5 +49,5 @@
 - Trying to figure out a carousel to be added - having difficult with the responsiveness on small screens for my wedding countdown
 
 -  ### 2024-06-30
--  I was workigon some components that I can use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
+-  I was workig on some components that I can re-use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
   
