@@ -50,4 +50,7 @@
 
 -  ### 2024-06-30
 -  I was workig on some components that I can re-use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
+
+-  ### 2024-06-30
+-  USing ther mern stack from above to build on a hotels booking website.
   
