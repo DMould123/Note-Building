@@ -49,8 +49,8 @@
 - Trying to figure out a carousel to be added - having difficult with the responsiveness on small screens for my wedding countdown
 
 -  ### 2024-06-30
--  I was workig on some components that I can re-use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
+-  I was working on some components that I can re-use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
 
-- ### 2024-06-30
-- Built hotel list and card to render data from MongoDB
+- ### 2024-07-14
+- Building a basic JavaScript, html & css template website for a Sushi restaurant
   
