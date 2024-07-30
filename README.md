@@ -53,4 +53,7 @@
 
 - ### 2024-07-14
 - Building a basic JavaScript, html & css template website for a Sushi restaurant
+
+- ### 2024-07-30
+- Back to this website and trying to improve the styling of the website
   
