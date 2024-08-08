@@ -56,4 +56,6 @@
 
 - ### 2024-07-30
 - Back to this website and trying to improve the styling of the website
-  
+
+- ### 2024-08-08
+- Building another restaurant template 
