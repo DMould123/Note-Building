@@ -58,4 +58,7 @@
 - Back to this website and trying to improve the styling of the website
 
 - ### 2024-08-08
-- Building another restaurant template 
+- Building another restaurant template
+
+- ### 2024-08-20
+- Started with the Bro Code Python on YouTube. Want to learn some Python basics to take forward onto football data
