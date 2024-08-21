@@ -62,3 +62,7 @@
 
 - ### 2024-08-20
 - Started with the Bro Code Python on YouTube. Want to learn some Python basics to take forward onto football data
+
+- ### 2024-08-21
+- Had an interview today with Benify
+
