@@ -66,3 +66,9 @@
 - ### 2024-08-21
 - Had an interview today with Benify
 
+- ### 2024-08-24
+- Really enjoying Python
+  
+- first_name = "David"
+- print(f"{first_name} is enjoying Python")
+
