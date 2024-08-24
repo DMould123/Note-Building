@@ -71,4 +71,5 @@
   
 - first_name = "David"
 - print(f"{first_name} is enjoying Python")
+- print(f"{first_name} is keen to learn some more Python")
 
