@@ -73,3 +73,6 @@
 - print(f"{first_name} is enjoying Python")
 - print(f"{first_name} is keen to learn some more Python")
 
+- ### 2024-08-30
+- Bulding a football quiz using Python
+
