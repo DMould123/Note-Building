@@ -77,6 +77,4 @@
 - Bulding a football quiz using Python
 
 - ### 2024-09-01
-- Need to figure out how to add some basic styling to the football quiz
-
-
+- Need to figure out how to add some basic styling to the football quiz to bring it to life more
