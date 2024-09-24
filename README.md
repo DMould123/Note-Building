@@ -80,4 +80,7 @@
 - Need to figure out how to add some basic styling to the football quiz to bring it to life more
 
 - ### 2024-09-07
-- tyling is coming along, trying to add a timer, but having issues with adding threading and getting it to work
+- styling is coming along, trying to add a timer, but having issues with adding threading and getting it to work
+
+- ### 2024-09-24
+- Need to update the wedding countdown page after the date has passed
