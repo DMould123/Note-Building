@@ -84,3 +84,6 @@
 
 - ### 2024-09-24
 - Need to update the wedding countdown page after the date has passed
+
+- ### 2024-11-21
+- Been working on ShirtHub and some other apps to add update my Portfolio page
