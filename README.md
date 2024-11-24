@@ -87,3 +87,7 @@
 
 - ### 2024-11-21
 - Been working on ShirtHub and some other apps to add update my Portfolio page. Thinking of a possible chat app to use with as a football debate forum
+
+- ### 2024-11-24
+- ShirtHub layout needs updating for desktop layout
+- 
