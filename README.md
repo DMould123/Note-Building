@@ -90,4 +90,7 @@
 
 - ### 2024-11-24
 - ShirtHub layout needs updating for desktop layout
-- 
+
+- ## 2025-05-01
+- Working on some FM blog pages to practice across different frameworks
+  
