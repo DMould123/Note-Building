@@ -93,4 +93,7 @@
 
 - ## 2025-05-01
 - Working on some FM blog pages to practice across different frameworks
+
+- ## 2025-05-06
+- Building a reading app on React Native. Having problems with the new SDK update and Appwrite
   
