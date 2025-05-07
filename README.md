@@ -97,3 +97,6 @@
 - ## 2025-05-06
 - Building a reading app on React Native. Having problems with the new SDK update and Appwrite
   
+-  ## 2025-05-07
+-  Still not got a solution for the Appwrite issue
+  
