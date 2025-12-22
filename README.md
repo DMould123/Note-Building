@@ -117,3 +117,6 @@
 
 - ## 2025-01-17
 - Building a python script to make my email building easier for Smartodds. Webscraping fixtures
+
+- ## 2025-01-20
+  -Prepping for my React code test with New Minds
