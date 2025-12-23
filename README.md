@@ -27,7 +27,6 @@
 - ### 2024-04-29
 
 - Built a wedding countdown page with HTML, CSS & JS
-  
 - ### 2024-05-06
 
 - Still working on the Quiz App styling and some params.
@@ -48,8 +47,8 @@
 - ### 2024-06-07
 - Trying to figure out a carousel to be added - having difficult with the responsiveness on small screens for my wedding countdown
 
--  ### 2024-06-30
--  I was working on some components that I can re-use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
+- ### 2024-06-30
+- I was working on some components that I can re-use in other projects. I now have MERN JS stack with bcrypt, json webtoken to build projects from as a base
 
 - ### 2024-07-14
 - Building a basic JavaScript, html & css template website for a Sushi restaurant
@@ -68,7 +67,6 @@
 
 - ### 2024-08-24
 - Really enjoying Python
-  
 - first_name = "David"
 - print(f"{first_name} is enjoying Python")
 - print(f"{first_name} is keen to learn some more Python")
@@ -96,10 +94,11 @@
 
 - ## 2025-05-06
 - Building a reading app on React Native. Having problems with the new SDK update and Appwrite
-  
--  ## 2025-05-07
--  Still not got a solution for the Appwrite issue
+- ## 2025-05-07
+- Still not got a solution for the Appwrite issue
 
--  ## 2025-05-07
--  Still not updated for the Appwrite issue. Moved back to FM Journey page
-  
+- ## 2025-05-07
+- Still not updated for the Appwrite issue. Moved back to FM Journey page
+
+- ## 2025-12-23
+- Started building a portfolio page for my scouting projects
