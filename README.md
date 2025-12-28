@@ -102,3 +102,6 @@
 
 - ## 2025-12-23
 - Started building a portfolio page for my scouting projects
+
+- ## 2025-12-28
+- Using AI to build a Prem stats dashboard using various free API's.
