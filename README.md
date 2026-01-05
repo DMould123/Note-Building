@@ -105,3 +105,6 @@
 
 - ## 2025-12-28
 - Using AI to build a Prem stats dashboard using various free API's.
+
+- ## 2025-01-06
+- Started a course with Udacity; Introduction to Python Programming
