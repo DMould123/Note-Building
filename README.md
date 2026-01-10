@@ -108,3 +108,6 @@
 
 - ## 2025-01-06
 - Started a course with Udacity; Introduction to Python Programming
+
+- ## 2025-01-10
+- Udacity course is going well. I have completed around 25%. Prem stats dashboard advancing as well. Need to add defender stats and player images
