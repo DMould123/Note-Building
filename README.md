@@ -111,3 +111,6 @@
 
 - ## 2025-01-10
 - Udacity course is going well. I have completed around 25%. Prem stats dashboard advancing as well. Need to add defender stats and player images
+
+- ## 2025-01-15
+- Completed more of the Udacity course. Main focus has been on my scout report writing
