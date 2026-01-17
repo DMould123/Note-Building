@@ -114,3 +114,6 @@
 
 - ## 2025-01-15
 - Completed more of the Udacity course. Main focus has been on my scout report writing
+
+- ## 2025-01-17
+- Building a python script to make my email building easier for Smartodds. Webscraping fixtures
