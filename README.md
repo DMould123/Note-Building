@@ -106,17 +106,20 @@
 - ## 2025-12-28
 - Using AI to build a Prem stats dashboard using various free API's.
 
-- ## 2025-01-06
+- ## 2026-01-06
 - Started a course with Udacity; Introduction to Python Programming
 
-- ## 2025-01-10
+- ## 2026-01-10
 - Udacity course is going well. I have completed around 25%. Prem stats dashboard advancing as well. Need to add defender stats and player images
 
-- ## 2025-01-15
+- ## 2026-01-15
 - Completed more of the Udacity course. Main focus has been on my scout report writing
 
-- ## 2025-01-17
+- ## 2026-01-17
 - Building a python script to make my email building easier for Smartodds. Webscraping fixtures'
 
-- ## 2025-01-20
+- ## 2026-01-20
 - Python script worked well on first use today.
+
+- ## 2025601-22
+- Practicing with React for my code test.
