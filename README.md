@@ -123,3 +123,9 @@
 
 - ## 026-01-22
 - Practicing with React for my code test.
+
+- ## 026-01-25
+- Failed my code test. Lots to work on.
+
+- ## 26-01-2026
+- Made lots of progress with the python script for Smartodds
