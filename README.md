@@ -121,11 +121,14 @@
 - ## 2026-01-20
 - Python script worked well on first use today.
 
-- ## 026-01-22
+- ## 2026-01-22
 - Practicing with React for my code test.
 
-- ## 026-01-25
+- ## 2026-01-25
 - Failed my code test. Lots to work on.
 
-- ## 26-01-2026
+- ## 2026-26-01
 - Made lots of progress with the python script for Smartodds
+
+- ## 2026-02-02
+- Been updating my Movies & Music website for my school project and giving it a new feel.
