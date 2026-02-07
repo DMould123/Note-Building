@@ -132,3 +132,6 @@
 
 - ## 2026-02-02
 - Been updating my Movies & Music website for my school project and giving it a new feel.
+
+- ## 2026-02-07
+- Movies & Music has progressed well, just need to make it live.
