@@ -135,3 +135,6 @@
 
 - ## 2026-02-07
 - Movies & Music has progressed well, just need to make it live.
+
+- ## 2026-03-19
+- Back to updating my scout portfolio page
